@@ -1,6 +1,6 @@
 # 🧱 Breakout
 
-You can view the pretty version of the notes [here](https://jac-cs-game-programming-f23.github.io/Notes/#/2-Breakout/).
+You can view the pretty version of the notes [here](https://jac-cs-game-programming-f23.github.io/Notes/#/1-Breakout/).
 
 ## 🎯 Objectives
 
